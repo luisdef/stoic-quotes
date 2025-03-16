@@ -1,6 +1,11 @@
 {
   "name": "stoic-quotes",
-  "version": "0.1.0",
+  "version": "1.0.2",
+  "author": {
+    "name": "Luis Felipe Assmann",
+    "email": "luis.assmann.1234@gmail.com",
+    "url": "https://luisdef.com"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
