@@ -1,4 +1,4 @@
-# Página de Frases Estoicas
+# Frases Estoicas
 
 ## Sobre
 
@@ -11,4 +11,4 @@ Tecnologias utilizadas:
 
 - NextJS - TypeScript;
 - TailwindCSS;
-- MongoDB
+- MongoDB.
