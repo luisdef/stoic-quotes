@@ -9,8 +9,8 @@ export default async function Home() {
       <h1 className="text-[16px] font-extrabold text-center">
         Frases Estoicas
       </h1>
-      <div className="flex flex-col border-2 w-[80%] p-[12px]">
-        <p className="text-[20px]">{data.text}</p>
+      <div className="flex flex-col max-md:w-[100%] border-2 w-[80%] p-[12px]">
+        <p className="max-md:text-[16px] text-[20px]">{data.text}</p>
         <p className="text-[16px] text-right italic">{data.author}</p>
       </div>
       <span className="absolute bottom-1 right-1 bg-slate-300 p-1 text-[14px]">

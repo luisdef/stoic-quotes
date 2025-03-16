@@ -13,4 +13,5 @@ const QuoteSchema: Schema = new Schema({
 const Quote: Model<IQuote> =
   mongoose.models.Quote ||
   mongoose.model<IQuote>("Quote", QuoteSchema, "quote");
+
 export default Quote;

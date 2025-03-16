@@ -9,9 +9,11 @@ export default async function dbConnect() {
     const conn = await mongoose.connect(MONGO_URI, {
       dbName: "stoic_quotes",
     });
+
     return conn;
   } catch (error) {
     console.error("MongoDB connection error: ", error);
+
     throw error;
   }
 }

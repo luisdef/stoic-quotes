@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Frases Estoicas",
-  description: "Pequenos pensamentos estoicos.",
+  description: "Frases sobre o Estoicismo, e seus maiores pensadores.",
 };
 
 export default function RootLayout({
