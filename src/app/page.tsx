@@ -13,7 +13,7 @@ export default async function Home() {
         <p className="max-md:text-[16px] text-[20px]">{data.text}</p>
         <p className="text-[16px] text-right italic">{data.author}</p>
       </div>
-      <span className="absolute bottom-1 right-1 bg-slate-300 p-1 text-[14px]">
+      <span className="fixed bottom-1 right-1 bg-slate-300 p-1 text-[14px]">
         Por Luis Felipe Assmann
       </span>
     </div>
