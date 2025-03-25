@@ -1,13 +1,10 @@
-# Frases Estoicas
+# Stoic Quotes
 
-## Sobre
+## About
 
-Página que retorna algumas frases e axiomas  da corrente filosófica estoica, 
-originária da Grécia Antiga, caracterizado por seu conteúdo prático e naturalista. 
-Pequenos vislumbres que talvez instiguem a busca pela leitura dos pensadores 
-dessa linha filosófica.
+A page presenting a few quotes and axioms from the Stoic philosophical tradition, originating in Ancient Greece and characterized by its practical, naturalistic approach. These brief glimpses may inspire further exploration of the works by thinkers in this philosophical lineage.
 
-Tecnologias utilizadas:
+Tech stack:
 
 - NextJS - TypeScript;
 - TailwindCSS;
